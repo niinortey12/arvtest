@@ -1,8 +1,8 @@
 # Arvato Project
 
-This Project was created using Bootstrap, React and Google map API. I used npm package
-react-google-autocomplete which helps us to give Google MAP API object and
-we used that and started autocomplete the Address whenever user type something.
+This Project was created using Bootstrap, Javascript React and Google map API. I used npm package
+react-google-autocomplete which gives Google MAP API object and
+to start the autocomplete the Address whenever user type something in the address fields.
 
 The Google Map API was used to display the address by taking the place_id from Google
 Object.
@@ -20,11 +20,15 @@ and displayed it after the Address has been placed according to the requirement 
 
 ## Features
 
-- Uses the Google Maps set of APIs to help users enter their physical address. Provides autocomplete suggestions from Google, and also shows a map when the use selects one.
+- Uses the Google Maps set of APIs to help users enter their physical address. Provides autocomplete suggestions from Google, and also shows a map when the user selects one.
 
 - A manual form (with fields for Street, Zip code, City, Country) is provided as a fallback.
 
 - A submit form that displays "Form has been submitted"
+
+## Demo
+
+- I have included a Gifs version on my Github repository
 
 # Getting Started with Create React App
 
@@ -108,4 +112,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # arvtest
